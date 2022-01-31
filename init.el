@@ -133,6 +133,7 @@
        ;;(go lavailable. You can either set ~doom-theme~ or manually load a theme with the
        ;; the hipster dialect
        ;;(haskell +dante)  ; a language that's lazier than I am
+       (haskell + lsp)
        ;;hy                ; readability of scheme w/ speed of python
        ;;idris             ; a language you can depend on
        ;;json              ; At least it ain't XML
